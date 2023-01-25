@@ -2,6 +2,7 @@
 """ Magic Class Module """
 import math
 
+
 class MagicClass:
     """ Magic class """
     def __init__(self, radius=0):
